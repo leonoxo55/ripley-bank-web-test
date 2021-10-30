@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  serverHost: 'https://ripley-bank-api-test.herokuapp.com/api/',
+  serverHost: 'http://ripley-bank-api-test.herokuapp.com/api/',
 };
 
 /*
