@@ -2,6 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
+DEMO http://ripley-bank-web-test.s3-website.us-east-2.amazonaws.com
 ## External libraries 
 
 *Bootstrap 
